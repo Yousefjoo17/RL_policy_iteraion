@@ -1,0 +1,13 @@
+==================================================
+Iteration number 1
+Took 80 iterations to converge for policy_eval
+Iteration number 2
+Took 66 iterations to converge for policy_eval
+Iteration number 3
+Took 39 iterations to converge for policy_eval
+Iteration number 4
+Took 21 iterations to converge for policy_eval
+Iteration number 5
+Took 17 iterations to converge for policy_eval
+Converged in 5 policy iterations
+Time taken: 0.143635 seconds
